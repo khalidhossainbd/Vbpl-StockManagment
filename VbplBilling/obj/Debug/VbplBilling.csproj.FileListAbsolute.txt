@@ -1,0 +1,14 @@
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\bin\Debug\VbplBilling.exe.config
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\bin\Debug\VbplBilling.exe
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\bin\Debug\VbplBilling.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.Form1.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.Properties.Resources.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.csproj.GenerateResource.Cache
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.exe
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.UI.LoginForm.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.UI.Main.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.UI.UserList.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.Users.ClientAddedControll.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.UI.testcontroll.resources
+c:\users\khalid\documents\visual studio 2015\Projects\VbplBilling\VbplBilling\obj\Debug\VbplBilling.Users.PresentStockControll.resources
